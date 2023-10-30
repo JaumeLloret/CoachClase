@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Coach</string>
+    <string name="sign_in">Enter</string>
+    <string name="close">Close</string>
+</resources>
